@@ -1,5 +1,6 @@
 # EVORA
 ### One connected system for safety, care, and family support.
+*Project Link:* [View Project](https://www.figma.com/deck/nu3u1BwSDASGbEcGr7NcfF)
 
 ---
 
@@ -8,7 +9,7 @@
 - **Roaa Omar Abdelmageed Abdelmageed**
 - **Farah Hafni Kamal Sorour**
 - **Rodina Basem Mohamed**
-- **Yara Mahmoud**
+- **Yara Mahmoud Taha Mohamed**
 
 ---
 
